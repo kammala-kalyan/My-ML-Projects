@@ -19,4 +19,6 @@ This project analyzes customer data from an e-commerce company to predict the ye
 ### 📊 Actual vs Predicted Scatter Plot:
 <img src="E-Commerce/Actual VS Predicted.png" width="500">
 
+### 🔗 Navigate to Project Notebook:
+[📓 Open E-Commerce Linear Regression Notebook](E-Commerce/code.ipynb)
 This was done as part of my machine learning practice. 
