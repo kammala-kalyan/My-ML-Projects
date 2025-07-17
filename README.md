@@ -20,7 +20,17 @@ This project analyzes customer data from an e-commerce company to predict the ye
 <img src="E-Commerce/Actual VS Predicted.png" width="500">
 
 ### 🔗 Navigate to Project Notebook:
-📓E-Commerce Linear Regression Notebook :[<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](E-Commerce/code.ipynb)
+📓E-Commerce Linear Regression Notebook :
+[<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](E-Commerce/code.ipynb)
 
 ---
-This was done as part of my machine learning practice. 
+✅ More days to come...
+---
+
+### 🛠 Built With
+
+- 🐍 [Python](https://www.python.org/)
+- 🐼 [Pandas](https://pandas.pydata.org/)
+- 📊 [Matplotlib](https://matplotlib.org/)
+- 🌊 [Seaborn](https://seaborn.pydata.org/)
+
