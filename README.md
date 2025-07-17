@@ -1,5 +1,5 @@
 
-<img src="https://image.shutterstock.com/image-vector/machine-learning-banner-web-icon-260nw-1110900704.jpg" width=100%>
+<img src="https://image.shutterstock.com/image-vector/machine-learning-banner-web-icon-260nw-1110900704.jpg" width=90%>
 <h1 align="center" size=50>My Machine Learning Practice Projects 🤖</h1>
 
 - This repository contains the machine learning projects I practice and learn from.  
