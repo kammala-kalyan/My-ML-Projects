@@ -29,8 +29,5 @@ This project analyzes customer data from an e-commerce company to predict the ye
 
 ### 🛠 Built With
 
-- 🐍 [Python](https://www.python.org/)
-- 🐼 [Pandas](https://pandas.pydata.org/)
-- 📊 [Matplotlib](https://matplotlib.org/)
-- 🌊 [Seaborn](https://seaborn.pydata.org/)
+🐍 [Python](https://www.python.org/) |🐼 [Pandas](https://pandas.pydata.org/) | 📊 [Matplotlib](https://matplotlib.org/) | 🌊 [Seaborn](https://seaborn.pydata.org/)
 
