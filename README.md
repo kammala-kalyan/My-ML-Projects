@@ -21,6 +21,7 @@ This project analyzes customer data from an e-commerce company to predict the ye
 
 ### 🔗 Navigate to Project Notebook:
 📓E-Commerce Linear Regression Notebook :
+
 [<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](E-Commerce/code.ipynb)
 
 ---
