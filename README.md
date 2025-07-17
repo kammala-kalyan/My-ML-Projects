@@ -17,6 +17,6 @@ This project analyzes customer data from an e-commerce company to predict the ye
 - Evaluated the model using error metrics and residual plots.
 
 ### 📊 Actual vs Predicted Scatter Plot:
-<img src="actual_vs_predicted.png" width="500">
+<img src="E-Commerce/Actual VS Predicted.png" width="500">
 
 This was done as part of my machine learning practice. 
