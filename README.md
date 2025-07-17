@@ -1,5 +1,5 @@
 <h1 align="center" size=50>My Machine Learning Practice Projects 📘🤖</h1>
-
+<img src="https://i2.wp.com/thumbnails.techmedok.com/explained/machine-learning.webp" width=100>
 This repository contains the machine learning projects I practice and learn from.  
 I'll be uploading notebooks, datasets, and code as I explore different ML concepts.
 
@@ -13,4 +13,4 @@ This project analyzes customer data from an e-commerce company to predict the ye
 - Built a linear regression model to predict `Yearly Amount Spent`.
 - Evaluated the model using error metrics and residual plots.
 
-This was done as part of my machine learning practice. More such projects will be added here!
+This was done as part of my machine learning practice. 
