@@ -50,10 +50,11 @@ The dataset contains details such as:
 ### 📊 Actual vs Predicted Scatter Plot:
 <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/output.png" width="500">
 <img src="House prices/output2.png" width="500">
+
 ### 🔗 Navigate to Project Notebook:
 🏠 House Price Prediction using Linear Regression Notebook :
 
-[<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/code.ipynb)
+[<img src="https://w7.pngwing.com/pngs/100/174/png-transparent-icon-click.png" width=80>](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/code.ipynb)
 
 ✅ More days to come...
 ---
