@@ -54,7 +54,7 @@ The dataset contains details such as:
 ### 🔗 Navigate to Project Notebook:
 🏠 House Price Prediction using Linear Regression Notebook :
 
-[<img src="https://w7.pngwing.com/pngs/100/174/png-transparent-icon-click.png" width=80>](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/code.ipynb)
+[<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/code.ipynb)
 
 ✅ More days to come...
 ---
@@ -63,4 +63,4 @@ The dataset contains details such as:
 
 🐍 [Python](https://www.python.org/) | 🐼 [Pandas](https://pandas.pydata.org/) | 🔢 [NumPy](https://numpy.org/) | 📊 [Matplotlib](https://matplotlib.org/) | 🌊 [Seaborn](https://seaborn.pydata.org/)
 
-[<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](E-Commerce/code.ipynb)
+
