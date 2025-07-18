@@ -35,7 +35,8 @@ The dataset contains details such as:
 - Area, Bedrooms, Bathrooms, Stories
 - Amenities: main road access, guestroom, basement, hot water heating, air conditioning, etc.
 - Categorical feature: Furnishing status
-
+- [Dataset link](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction/)
+  
 ## 🛠️ What I Did
 - Converted **'yes'/'no'** values to `1/0` to make them usable by the model.
 - Simplified **furnishing status** to binary values.
