@@ -49,7 +49,7 @@ The dataset contains details such as:
   
 ### 📊 Actual vs Predicted Scatter Plot:
 <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/output.png" width="500">
-
+<img src="House prices/output2.png" width="500">
 ### 🔗 Navigate to Project Notebook:
 🏠 House Price Prediction using Linear Regression Notebook :
 
