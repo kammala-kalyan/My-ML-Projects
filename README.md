@@ -5,7 +5,7 @@
 - This repository contains the machine learning projects I practice and learn from.  
 - I'll be uploading notebooks, datasets, and code as I explore different ML concepts.
 
-
+---
 ## `1`. E-Commerce Customers - Linear Regression Project 📈
 
 This project analyzes customer data from an e-commerce company to predict the yearly amount spent by a customer.
