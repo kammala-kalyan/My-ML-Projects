@@ -20,9 +20,7 @@ This project analyzes customer data from an e-commerce company to predict the ye
 <img src="E-Commerce/Actual VS Predicted.png" width="500">
 
 ### 🔗 Navigate to Project Notebook:
-📓E-Commerce Linear Regression Notebook :
-
-[<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](E-Commerce/code.ipynb)
+📓E-Commerce Linear Regression Notebook : [Click Here !](E-Commerce/code.ipynb)
 
 ---
 
@@ -53,9 +51,7 @@ The dataset contains details such as:
 <img src="House prices/output2.png" width="500">
 
 ### 🔗 Navigate to Project Notebook:
-🏠 House Price Prediction using Linear Regression Notebook :
-
-[<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/code.ipynb)
+🏠 House Price Prediction using Linear Regression Notebook : [Click Here !](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/code.ipynb)
 
 ✅ More days to come...
 ---
