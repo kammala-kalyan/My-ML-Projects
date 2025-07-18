@@ -25,10 +25,39 @@ This project analyzes customer data from an e-commerce company to predict the ye
 [<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](E-Commerce/code.ipynb)
 
 ---
+
+## `2`. 🏠 House Price Prediction using Linear Regression
+
+This project predicts house prices based on various features like area, number of rooms, and available amenities.
+
+## 📂 Dataset
+The dataset contains details such as:
+- Area, Bedrooms, Bathrooms, Stories
+- Amenities: main road access, guestroom, basement, hot water heating, air conditioning, etc.
+- Categorical feature: Furnishing status
+
+## 🛠️ What I Did
+- Converted **'yes'/'no'** values to `1/0` to make them usable by the model.
+- Simplified **furnishing status** to binary values.
+- Applied **log transformation** on price to handle skewness.
+- Selected features based on correlation with price.
+- Trained a **Linear Regression model** to predict house prices.
+
+## 📈 Output
+- Evaluated the model using R² and RMSE.
+- Visualized predictions and residuals to understand model performance.
+  
+### 📊 Actual vs Predicted Scatter Plot:
+<img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/output.png" width="500">
+
+### 🔗 Navigate to Project Notebook:
+🏠 House Price Prediction using Linear Regression Notebook :
+
+[<img src="https://static.vecteezy.com/system/resources/previews/027/854/205/original/click-me-3d-button-web-transparent-free-png.png" width=80>](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/code.ipynb)
+
 ✅ More days to come...
 ---
 
 ### 🛠 Built With
 
-🐍 [Python](https://www.python.org/) |🐼 [Pandas](https://pandas.pydata.org/) | 📊 [Matplotlib](https://matplotlib.org/) | 🌊 [Seaborn](https://seaborn.pydata.org/)
-
+🐍 [Python](https://www.python.org/) | 🐼 [Pandas](https://pandas.pydata.org/) | 🔢 [NumPy](https://numpy.org/) | 📊 [Matplotlib](https://matplotlib.org/) | 🌊 [Seaborn](https://seaborn.pydata.org/)
