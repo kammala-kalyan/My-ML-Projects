@@ -35,7 +35,8 @@ The dataset contains details such as:
 - Area, Bedrooms, Bathrooms, Stories
 - Amenities: main road access, guestroom, basement, hot water heating, air conditioning, etc.
 - Categorical feature: Furnishing status
-
+- [Dataset link](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction/)
+  
 ## 🛠️ What I Did
 - Converted **'yes'/'no'** values to `1/0` to make them usable by the model.
 - Simplified **furnishing status** to binary values.
@@ -49,6 +50,7 @@ The dataset contains details such as:
   
 ### 📊 Actual vs Predicted Scatter Plot:
 <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/House%20prices/output.png" width="500">
+<img src="House prices/output2.png" width="500">
 
 ### 🔗 Navigate to Project Notebook:
 🏠 House Price Prediction using Linear Regression Notebook :
@@ -61,3 +63,5 @@ The dataset contains details such as:
 ### 🛠 Built With
 
 🐍 [Python](https://www.python.org/) | 🐼 [Pandas](https://pandas.pydata.org/) | 🔢 [NumPy](https://numpy.org/) | 📊 [Matplotlib](https://matplotlib.org/) | 🌊 [Seaborn](https://seaborn.pydata.org/)
+
+
