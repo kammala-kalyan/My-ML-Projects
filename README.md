@@ -13,10 +13,11 @@
 | 1️    | E-Commerce Spending Prediction (Linear Regression) | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/E-Commerce) |
 | 2    | House Price Prediction (Linear Regression)     | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/House%20prices) |
 
+---
 More days to come...
 ---
 
-### 🛠 Built With
+# 🛠 Built With
 
 🐍 [Python](https://www.python.org/) | 🐼 [Pandas](https://pandas.pydata.org/) | 🔢 [NumPy](https://numpy.org/) | 📊 [Matplotlib](https://matplotlib.org/) | 🌊 [Seaborn](https://seaborn.pydata.org/)
 
