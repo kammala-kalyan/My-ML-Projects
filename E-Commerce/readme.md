@@ -30,9 +30,8 @@ This project analyzes customer data from an e-commerce company to predict the ye
 - The model predicts yearly customer spending with very high accuracy and minimal error.
 - No signs of overfitting were found (Test R² > Train R²).
   
-### Actual vs Predicted Heat Map:
-<img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/Actual%20Vs%20Predicted1.png" width="500">
-<img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/Actual%20VS%20Predicted.png" width="500">
+### Actual vs Predicted Heat Map :
+<img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/Actual%20Vs%20Predicted1.png" width="500"> <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/Actual%20VS%20Predicted.png" width="500">
 
 ### Navigate to Project Notebook:
 🔗 E-Commerce Linear Regression Notebook : [Click Here !](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/E-Commerce_code.ipynb)
