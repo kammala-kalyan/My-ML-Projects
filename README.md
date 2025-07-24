@@ -6,21 +6,26 @@
 - I'll be uploading notebooks, datasets, and code as I explore different ML concepts.
 
 ---
-## `1`. E-Commerce Customers - Linear Regression Project 📈
+## `1`. E-Commerce Customers - Linear Regression Project 
 
 This project analyzes customer data from an e-commerce company to predict the yearly amount spent by a customer.
 
+## 📂 Dataset
+- [Dataset link](https://www.kaggle.com/datasets/srolka/ecommerce-customers)
+  
 ## What I did:
-- Explored the dataset using pandas and seaborn.
-- Visualized relationships between features.
-- Built a linear regression model to predict `Yearly Amount Spent`.
-- Evaluated the model using error metrics and residual plots.
+- Loaded and explored the dataset
+- Features Selected (Based on Correlation)
+- Visualized correlations using pairplot and heatmap
+- Trained a Linear Regression model
+- Evaluated with MAE, RMSE, and R² scores
+- Achieved **1.45% average percent error**
 
 ### 📊 Actual vs Predicted Heat Map:
-<img src="E-Commerce/Actual VS Predicted1.png" width="500">
+<img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/Actual%20Vs%20Predicted1.png" width="500">
 
 ### 🔗 Navigate to Project Notebook:
-📓E-Commerce Linear Regression Notebook : [Click Here !](E-Commerce/code.ipynb)
+📓E-Commerce Linear Regression Notebook : [Click Here !](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/E-Commerce_code.ipynb)
 
 ---
 
@@ -29,10 +34,6 @@ This project analyzes customer data from an e-commerce company to predict the ye
 This project predicts house prices based on various features like area, number of rooms, and available amenities.
 
 ## 📂 Dataset
-The dataset contains details such as:
-- Area, Bedrooms, Bathrooms, Stories
-- Amenities: main road access, guestroom, basement, hot water heating, air conditioning, etc.
-- Categorical feature: Furnishing status
 - [Dataset link](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction/)
   
 ## 🛠️ What I Did
