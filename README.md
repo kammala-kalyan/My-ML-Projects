@@ -13,7 +13,7 @@
 | 1️    | E-Commerce Spending Prediction (Linear Regression) | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/E-Commerce) |
 | 2    | House Price Prediction (Linear Regression)     | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/House%20prices) |
 
-✅ More days to come...
+More days to come...
 ---
 
 ### 🛠 Built With
