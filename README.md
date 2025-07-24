@@ -8,10 +8,10 @@
 ---
 ## 📁 Projects Overview
 
-| S.No | Project Name                                      | Folder Link |
-|------|---------------------------------------------------|--------------------------|
-| 1️    | E-Commerce Spending Prediction (Linear Regression) | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/E-Commerce) |
-| 2    | House Price Prediction (Linear Regression)     | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/House%20prices) |
+| S.No | Project Name                                       | Folder Link                                                                                   | 📂 Source Dataset |
+|------|----------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------|
+| 1️⃣   | E-Commerce Spending Prediction (Linear Regression) | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/E-Commerce)         | [Kaggle](https://www.kaggle.com/datasets/srolka/ecommerce-customers) |
+| 2️⃣   | House Price Prediction (Linear Regression)         | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/House%20prices)     | [Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction/) |
 
 ---
 More days to come...
