@@ -3,10 +3,10 @@
 
 This project analyzes customer data from an e-commerce company to predict the yearly amount spent by a customer.
 
-## 📂 Dataset
+### 📂 Dataset
 - [Dataset link](https://www.kaggle.com/datasets/srolka/ecommerce-customers)
   
-## What I did:
+### What I did:
 - Loaded and explored the dataset
 - Features Selected (Based on Correlation)
 - Visualized correlations using pairplot and heatmap
@@ -14,7 +14,7 @@ This project analyzes customer data from an e-commerce company to predict the ye
 - Evaluated with MAE, RMSE, and R² scores
 - Achieved **1.45% average percent error**
 
-## Output & Evaluation
+### Output & Evaluation
 - Evaluation was done on test data (20%) using standard regression metrics.
 
 | Metric                  | Value     |
@@ -23,15 +23,15 @@ This project analyzes customer data from an e-commerce company to predict the ye
 | Test R² Score           | 0.9892    |
 | Mean Absolute Error     | Low       |
 | Root Mean Squared Error | Low       |
-| ✅ Avg Percent Error     | **1.45%** |
+| Avg Percent Error     | **1.45%** |
 
-### Interpretation:
+#### Interpretation:
 
 - The model predicts yearly customer spending with very high accuracy and minimal error.
 - No signs of overfitting were found (Test R² > Train R²).
   
-### 📊 Actual vs Predicted Heat Map:
+### Actual vs Predicted Heat Map:
 <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/Actual%20Vs%20Predicted1.png" width="500">
 
-### 🔗 Navigate to Project Notebook:
-📓E-Commerce Linear Regression Notebook : [Click Here !](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/E-Commerce_code.ipynb)
+### Navigate to Project Notebook:
+🔗 E-Commerce Linear Regression Notebook : [Click Here !](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/E-Commerce_code.ipynb)
