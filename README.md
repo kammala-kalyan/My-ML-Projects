@@ -16,8 +16,8 @@ This project analyzes customer data from an e-commerce company to predict the ye
 - Built a linear regression model to predict `Yearly Amount Spent`.
 - Evaluated the model using error metrics and residual plots.
 
-### 📊 Actual vs Predicted Scatter Plot:
-<img src="E-Commerce/Actual VS Predicted.png" width="500">
+### 📊 Actual vs Predicted Heat Map:
+<img src="E-Commerce/Actual VS Predicted1.png" width="500">
 
 ### 🔗 Navigate to Project Notebook:
 📓E-Commerce Linear Regression Notebook : [Click Here !](E-Commerce/code.ipynb)
