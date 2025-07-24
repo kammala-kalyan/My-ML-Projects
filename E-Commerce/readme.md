@@ -32,6 +32,7 @@ This project analyzes customer data from an e-commerce company to predict the ye
   
 ### Actual vs Predicted Heat Map:
 <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/Actual%20Vs%20Predicted1.png" width="500">
+<img src="https://github.com/kammala-kalyan/My-ML-Projects/edit/main/E-Commerce/Actual%20Vs%20Predicted.png" width="500">
 
 ### Navigate to Project Notebook:
 🔗 E-Commerce Linear Regression Notebook : [Click Here !](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/E-Commerce_code.ipynb)
