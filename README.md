@@ -24,12 +24,13 @@ This project analyzes customer data from an e-commerce company to predict the ye
 ## Output & Evaluation
 - Evaluation was done on test data (20%) using standard regression metrics.
 
-|Metric	|Value |
-|Train R² Score |	0.9827 |
-|Test R² Score	| 0.9892 |
-|Mean Absolute Error | Low |
-|Root Mean Squared Error	| Low |
-|Avg Percent Error	1.45% |
+| Metric                  | Value     |
+| ----------------------- | --------- |
+| Train R² Score          | 0.9827    |
+| Test R² Score           | 0.9892    |
+| Mean Absolute Error     | Low       |
+| Root Mean Squared Error | Low       |
+| ✅ Avg Percent Error     | **1.45%** |
 
 ### Interpretation:
 
@@ -75,5 +76,6 @@ This project predicts house prices based on various features like area, number o
 ### 🛠 Built With
 
 🐍 [Python](https://www.python.org/) | 🐼 [Pandas](https://pandas.pydata.org/) | 🔢 [NumPy](https://numpy.org/) | 📊 [Matplotlib](https://matplotlib.org/) | 🌊 [Seaborn](https://seaborn.pydata.org/)
+
 
 
