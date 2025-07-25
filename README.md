@@ -12,7 +12,7 @@
 |------|----------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------|----------|
 | 1    | E-Commerce Spending Prediction                     | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/E-Commerce)         | [Kaggle](https://www.kaggle.com/datasets/srolka/ecommerce-customers) | (500, 8) |
 | 2    | House Price Prediction                             | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/House%20prices)     | [Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction) | (545, 13) |
-| 3    | Daily Website Visitors                             | [View Project}(https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/code_daily-webiste-visitors.ipynb) | [kaggle}(https://www.kaggle.com/datasets/bobnau/daily-website-visitors) | (2167, 8) |
+| 3    | Daily Website Visitors                             | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/code_daily-webiste-visitors.ipynb) | [kaggle](https://www.kaggle.com/datasets/bobnau/daily-website-visitors) | (2167, 8) |
 ---
 More days to come...
 ---
