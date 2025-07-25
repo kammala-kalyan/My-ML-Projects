@@ -7,7 +7,7 @@ Each row represents one day of traffic.
 ### 📂 Dataset
 - [Dataset link](https://www.kaggle.com/datasets/bobnau/daily-website-visitors)
 
-- **243 rows** → Each row represents one day of website traffic  
+- **2167 rows** → Each row represents one day of website traffic  
 - **8 columns** → Features like visits, date, and day of week
 
 ### Features and Their Meaning
