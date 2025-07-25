@@ -31,12 +31,8 @@ This project was designed to help me practice two key machine learning concepts:
 
 I wanted to apply both in a real dataset workflow — starting from raw data and ending with model evaluation and visual insights.
 
-### How I Used the Dataset
 
-- I took this real-world web traffic dataset to **practice Logistic Regression and L1 Regularization**.  
-- The goal was to build a model that predicts whether a given day had **high website traffic**.
-
-### Steps I Followed
+### Work Flow with Steps Followed:
 
 1. **Loaded and Cleaned the Data**
    - Removed the `Row` column
@@ -99,11 +95,5 @@ I wanted to apply both in a real dataset workflow — starting from raw data and
      - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Actual%20Vs%20Predicted.png" width="400px">
 
 ---
-
-🎯 Final Output:
-- Features used: `['Unique.Visits', 'First.Time.Visits', 'Returning.Visits', 'IsWeekend']`
-- Evaluation: Confusion matrix, accuracy, logistic plots
-- Visuals: Coefficient barplot, correlation heatmap, logistic fits, and predicted scatter plot
-
 
 
