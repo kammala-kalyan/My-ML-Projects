@@ -55,11 +55,12 @@ I wanted to apply both in a real dataset workflow — starting from raw data and
    - Used `LogisticRegression` with `penalty='l1'` and `SelectFromModel`
    - Automatically selected features with non-zero coefficients
    - Visualized the coefficients with a barplot (green = selected, red = removed)
-   - <img src="
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/L1%20Regularization%20feature%20Selection.png" width="200px">
 
 5. **Explored Feature Relationships**
    - Used a heatmap to view correlations between features and target
    - Plotted logistic regression fit curves for each feature vs `HighTraffic`
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Heatmap.png" width="200px">
 
 6. **Manually Refined Features**
    - Based on visual patterns, manually chose:
