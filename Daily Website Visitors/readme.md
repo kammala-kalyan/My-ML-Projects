@@ -55,12 +55,18 @@ I wanted to apply both in a real dataset workflow — starting from raw data and
    - Used `LogisticRegression` with `penalty='l1'` and `SelectFromModel`
    - Automatically selected features with non-zero coefficients
    - Visualized the coefficients with a barplot (green = selected, red = removed)
-   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/L1%20Regularization%20feature%20Selection.png" width="200px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/L1%20Regularization%20feature%20Selection.png" width="400px">
 
 5. **Explored Feature Relationships**
    - Used a heatmap to view correlations between features and target
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Heatmap.png" width="400px">
    - Plotted logistic regression fit curves for each feature vs `HighTraffic`
-   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Heatmap.png" width="200px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Unique%20vs%20HT.png" width="400px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/F%20vs%20H.png" width="400px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Return%20Vs%20HT.png" width="400px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/IsWeekend%20Vs%20HT.png" width="400px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Month%20vs%20HT.png" width="400px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Day%20Vs%20HT.png" width="400px">
 
 6. **Manually Refined Features**
    - Based on visual patterns, manually chose:
@@ -75,12 +81,14 @@ I wanted to apply both in a real dataset workflow — starting from raw data and
 
 8. **Evaluated the Model**
    - Generated confusion matrix and classification report
-   - Calculated final accuracy score
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Confusion%20Matrix.png" width="400px">
+   - Calculated final accuracy score : 95.8525 %
 
 9. **Visualized Final Predictions**
    - Plotted **Actual vs Predicted Probabilities**
      - Green dots = actual class (0 or 1)
      - Red dots = predicted probabilities from the model
+     - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Actual%20Vs%20Predicted.png" width="400px">
 
 ---
 
