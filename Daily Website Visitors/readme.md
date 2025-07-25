@@ -93,7 +93,8 @@ I wanted to apply both in a real dataset workflow — starting from raw data and
      - Green dots = actual class (0 or 1)
      - Red dots = predicted probabilities from the model
      - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Actual%20Vs%20Predicted.png" width="400px">
-### Navigate to Project Notebook:
+
+####  Navigate to Project Notebook:
 🔗 Daily Website Visitors – Logistic Regression Notebook: [Click Here!](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/code_daily-webiste-visitors.ipynb)
 ---
 ## Conclusion :
