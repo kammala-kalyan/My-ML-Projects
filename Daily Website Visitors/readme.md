@@ -95,5 +95,7 @@ I wanted to apply both in a real dataset workflow — starting from raw data and
      - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Actual%20Vs%20Predicted.png" width="400px">
 
 ---
+## Conclusion :
+This mini project helped me go beyond textbook theory and apply **Logistic Regression** and **Regularization (L1)** in a real-world setting. From performing light preprocessing to engineering features and validating results with visualizations — I got a hands-on feel of the **complete ML pipeline**.
 
 
