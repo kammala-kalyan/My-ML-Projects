@@ -61,12 +61,9 @@ I wanted to apply both in a real dataset workflow — starting from raw data and
    - Used a heatmap to view correlations between features and target
    - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Heatmap.png" width="400px">
    - Plotted logistic regression fit curves for each feature vs `HighTraffic`
-   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Unique%20vs%20HT.png" width="400px">
-   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/F%20vs%20H.png" width="400px">
-   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Return%20Vs%20HT.png" width="400px">
-   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/IsWeekend%20Vs%20HT.png" width="400px">
-   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Month%20vs%20HT.png" width="400px">
-   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Day%20Vs%20HT.png" width="400px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Unique%20vs%20HT.png" width="400px"> <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/F%20vs%20H.png" width="400px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Return%20Vs%20HT.png" width="400px"> <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/IsWeekend%20Vs%20HT.png" width="400px">
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Month%20vs%20HT.png" width="400px"> <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Day%20Vs%20HT.png" width="400px">
 
 6. **Manually Refined Features**
    - Based on visual patterns, manually chose:
