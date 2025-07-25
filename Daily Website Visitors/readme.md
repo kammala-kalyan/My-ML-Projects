@@ -31,12 +31,8 @@ This project was designed to help me practice two key machine learning concepts:
 
 I wanted to apply both in a real dataset workflow — starting from raw data and ending with model evaluation and visual insights.
 
-### How I Used the Dataset
 
-- I took this real-world web traffic dataset to **practice Logistic Regression and L1 Regularization**.  
-- The goal was to build a model that predicts whether a given day had **high website traffic**.
-
-### Steps I Followed
+### Work Flow with Steps Followed:
 
 1. **Loaded and Cleaned the Data**
    - Removed the `Row` column
@@ -55,11 +51,26 @@ I wanted to apply both in a real dataset workflow — starting from raw data and
    - Used `LogisticRegression` with `penalty='l1'` and `SelectFromModel`
    - Automatically selected features with non-zero coefficients
    - Visualized the coefficients with a barplot (green = selected, red = removed)
-   - <img src="
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/L1%20Regularization%20feature%20Selection.png" width="400px">
 
 5. **Explored Feature Relationships**
    - Used a heatmap to view correlations between features and target
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Heatmap.png" width="400px">
    - Plotted logistic regression fit curves for each feature vs `HighTraffic`
+<div align="center">
+  <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Unique%20vs%20HT.png" width="400px">
+  <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/F%20vs%20H.png" width="400px">
+</div><br>
+
+<div align="center">
+  <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Return%20Vs%20HT.png" width="400px">
+  <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/IsWeekend%20Vs%20HT.png" width="400px">
+</div><br>
+
+<div align="center">
+  <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Month%20vs%20HT.png" width="400px">
+  <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Day%20Vs%20HT.png" width="400px">
+</div>
 
 6. **Manually Refined Features**
    - Based on visual patterns, manually chose:
@@ -74,19 +85,21 @@ I wanted to apply both in a real dataset workflow — starting from raw data and
 
 8. **Evaluated the Model**
    - Generated confusion matrix and classification report
-   - Calculated final accuracy score
+   - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Confusion%20Matrix.png" width="400px">
+   - Calculated final accuracy score : 95.8525 %
 
 9. **Visualized Final Predictions**
    - Plotted **Actual vs Predicted Probabilities**
      - Green dots = actual class (0 or 1)
      - Red dots = predicted probabilities from the model
+     - <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/Actual%20Vs%20Predicted.png" width="400px">
+---
+###  Navigate to Project Notebook:
+
+Daily Website Visitors - Logistic Regression Notebook: [Click Here!](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/code_daily-webiste-visitors.ipynb)
 
 ---
-
-🎯 Final Output:
-- Features used: `['Unique.Visits', 'First.Time.Visits', 'Returning.Visits', 'IsWeekend']`
-- Evaluation: Confusion matrix, accuracy, logistic plots
-- Visuals: Coefficient barplot, correlation heatmap, logistic fits, and predicted scatter plot
-
+## Conclusion :
+This mini project helped me go beyond textbook theory and apply **Logistic Regression** and **Regularization (L1)** in a real-world setting. From performing light preprocessing to engineering features and validating results with visualizations — I got a hands-on feel of the **complete ML pipeline**.
 
 
