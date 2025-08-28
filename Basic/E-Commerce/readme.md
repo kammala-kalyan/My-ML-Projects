@@ -55,7 +55,7 @@ It includes features like average session length, time on app, length of members
      - `Length of Membership`
 
 <p align="center">
-  <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/Images/Avg%20session%20Length%20vs%20Yearly%20Amount%20Spent.png" width="45%" />
+  <img src="/Images/Avg%20session%20Length%20vs%20Yearly%20Amount%20Spent.png" width="45%" />
   &nbsp;&nbsp;
   <img src="https://github.com/kammala-kalyan/My-ML-Projects/blob/main/E-Commerce/Images/Time%20On%20app%20vs%20Yearly%20amount%20spent.png" width="45%" />
 </p>
