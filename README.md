@@ -10,9 +10,10 @@
 
 | S.No | Project Name                                       | Folder Link                                                                                   | Source Dataset |  Shape |
 |------|----------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------|----------|
-| 1    | E-Commerce Spending Prediction                     | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/E-Commerce)         | [Kaggle](https://www.kaggle.com/datasets/srolka/ecommerce-customers) | (500, 8) |
-| 2    | House Price Prediction                             | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/House%20prices)     | [Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction) | (545, 13) |
-| 3    | Daily Website Visitors                             | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/blob/main/Daily%20Website%20Visitors/code_daily-webiste-visitors.ipynb) | [kaggle](https://www.kaggle.com/datasets/bobnau/daily-website-visitors) | (2167, 8) |
+| 1    | E-Commerce Spending Prediction                     | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/Basic/E-Commerce) | (500, 8) |
+| 2    | House Price Prediction                             | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/Basic/House%20prices) | (545, 13) |
+| 3    | Daily Website Visitors                             | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/Basic/Daily%20Website%20Visitors) | [kaggle](https://www.kaggle.com/datasets/bobnau/daily-website-visitors) | (2167, 8) |
+| 4    | Heart Disease prediction                    | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/Basic/Heart%20Disease%20Prediction) | [kaggle]() | (918, 12) |
 ---
 More days to come...
 ---
