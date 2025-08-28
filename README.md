@@ -8,7 +8,7 @@
 ---
 ## 📁 Projects Overview
 
-| S.No | Project Name                                       | Folder Link                                                                                   | Source Dataset |  Shape |
+| S.No | Project Name                                       | Folder Link                                                                                   | Source Dataset |  Shape | Level |
 |------|----------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------|----------|---------|
 | 1    | E-Commerce Spending Prediction                     | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/Basic/E-Commerce) | [kaggle](https://www.kaggle.com/datasets/srolka/ecommerce-customers) | (500, 8) | Basic |
 | 2    | House Price Prediction                             | [View Project](https://github.com/kammala-kalyan/My-ML-Projects/tree/main/Basic/House%20prices) | [kaggle](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction) |  (545, 13) | Basic |
